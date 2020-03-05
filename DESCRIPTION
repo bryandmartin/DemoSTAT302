@@ -7,6 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "bmartin6@uw.edu")
 Description: This package demonstrates how to build a package for STAT 302 at UW.
+Depends: R (>= 3.2)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
